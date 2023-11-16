@@ -1,0 +1,15 @@
+mat-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+mat-list-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    color: black;
+}
