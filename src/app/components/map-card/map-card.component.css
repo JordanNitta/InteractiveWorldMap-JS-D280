@@ -13,3 +13,7 @@ mat-list-item {
 p {
     color: black;
 }
+
+mat-card-subtitle{
+    color: black;
+}
